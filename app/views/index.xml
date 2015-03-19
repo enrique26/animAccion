@@ -1,0 +1,15 @@
+<Alloy>
+	<Window class="container">
+		<Label id="label">animation Test</Label>
+		
+		<View id="primerCon">
+			<Label id="titulos"></Label>
+			<TextField id="caja1"></TextField>
+			<TextField id="caja2"></TextField>
+		</View>
+		
+		<View id="segundoCon">
+			
+		</View>
+	</Window>
+</Alloy>

@@ -1,0 +1,49 @@
+".container": {
+	backgroundColor:"white",
+	
+}
+"#label":{
+	top:20
+}
+"#primerCon":{
+	height:400,
+	width:300,
+	borderColor:'black',
+	borderRadius:2,
+	borderWidth:2,
+	top:40,
+	layout:'vertical'
+}
+
+"#segundoCon":{
+	height:300,
+	width:200,
+	borderColor:'black',
+	borderWidth:2,
+	top:-300,
+	opacity:0.0,
+	backgroundColor:'gray'
+}
+
+"#titulos":{
+	top:10,
+	text: 'box animation',
+	color:'black',
+	font:{
+		fontSize:16,
+		fontStyle:'arial'
+	}
+}
+
+"#caja1":{
+	top:10,
+	width:150,
+	borderColor:'black',
+	
+}
+"#caja2":{
+	top:10,
+	width:150,
+	borderColor:'red',
+	
+}
